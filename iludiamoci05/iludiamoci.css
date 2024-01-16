@@ -1,0 +1,31 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.testo {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+
+}
+a:link {
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a:visited {
+	font-weight: bold;
+}
+.evento {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #990000;
+}

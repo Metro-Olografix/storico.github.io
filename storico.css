@@ -1,0 +1,15 @@
+/* ah pook style sheet- storico olografix org */
+
+P, UL, LI { color: #000000; font-family: helvetica, Helvetica, arial, Arial, sans-serif; }
+
+ADDRESS { color: #777777; font-family: helvetiva, Helvetica, arial, Arial, sans-serif; font-size: 80%; }
+
+H2, H3, H4 { color: #666666; font-family: verdana, Verdana, arial, Arial, sans-serif; }
+
+A:link { color:#0033FF; }
+
+A:active { color:#0033FF; }
+
+A:visited { color:#333399; }
+
+TD.sto { background:#EEEEEE; padding-top: 2; padding-left: 10; padding-right: 2;}
